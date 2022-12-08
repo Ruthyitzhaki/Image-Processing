@@ -39,7 +39,7 @@ st.title('Image Segmentation using K-Means, by Yedidya Harris')
 # side bar
 st.markdown(
     
-    #<style>
+    <style>
     [data-testid="stSidebar"][aria-expanded="true"] . div:first-child{
         width: 350px
     }
